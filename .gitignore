@@ -1,0 +1,10 @@
+# 密钥配置，绝不上传
+.env
+
+# 生成的图片与历史记录（个人数据）
+outputs/
+
+# Python / 系统产物
+__pycache__/
+*.pyc
+.DS_Store
