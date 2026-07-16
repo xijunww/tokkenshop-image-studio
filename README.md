@@ -5,6 +5,8 @@
 
 > ⚡ 由 [**TokkenShop**](https://tokken.cc) 中转站提供支持 — 注册即可获取 API Key，请求地址填 `https://tokken.cc/v1`
 
+![生图工作台界面](screenshot.png)
+
 ## ✨ 功能
 
 - **文生图 + 图生图**：拖拽 / 点击 / 粘贴参考图（最多 10 张，自动压缩），自动切换 `images/edits` 接口
